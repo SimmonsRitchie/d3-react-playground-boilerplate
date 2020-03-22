@@ -1,6 +1,6 @@
 ### React-D3 boilerplate playground
 
-A simple boilerplate for messing around with React and D3.
+A simple boilerplate for messing around with React and D3. It includes the Bulma CSS framework and styled components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
